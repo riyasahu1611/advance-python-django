@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/riya.iml" filepath="$PROJECT_DIR$/.idea/riya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sos-project.iml" filepath="$PROJECT_DIR$/.idea/sos-project.iml" />
     </modules>
   </component>
 </project>
