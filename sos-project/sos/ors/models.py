@@ -5,7 +5,7 @@ class User(models.Model):
     last_name = models.CharField(max_length=50)
     login_id = models.CharField(max_length=50)
     password = models.CharField(max_length=20)
-    dob = models.DateField(max_length=20)
+    dob = models.DateField()
     address = models.CharField(max_length=50)
 
     class Meta:
